@@ -21,7 +21,7 @@ title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Youn,JaeSung"
 description              : "혼자 공부하는 블로그"
-url                      : "https://github.com/younjaesung/younjaesung.github.io"
+url                      : "https://younjaesung.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "younjaesung/younjaesung.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
