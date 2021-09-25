@@ -1,10 +1,10 @@
 # main links
 main:
-   - title: "Categories"
+  - title: "Categories"
     url: "/categories/"
-   - title: "Years"
+  - title: "Years"
     url: "/year-archive/"
-   - title: "Tags"
+  - title: "Tags"
     url: "/tags/"
   # - title: "Sample Collections"
   #   url: /collection-archive/
