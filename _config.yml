@@ -104,25 +104,6 @@ author:
   bio              : 경희대학교 소프트웨어융합학과
   location         : "Republic of Korea"
   email            : "jayjoy05@khu.ac.kr"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:7271kim@naver.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "http://honbabzone.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/seokjin.kim.16"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/7271kim"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
